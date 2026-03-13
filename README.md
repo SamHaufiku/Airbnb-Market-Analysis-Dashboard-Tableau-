@@ -16,4 +16,5 @@ This project analyzes Airbnb listing data to uncover pricing trends, inventory d
 
 ## Links
 * **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/sam.haufiku/viz/AirbnbMarketAnalysisDashboard/Dashboard1)
+* **Dataset**: [View Raw Data (Google Sheets)](https://docs.google.com/spreadsheets/d/1Cgb9fCQwHbz9O_cuu8abIybUwZiQZ0hY/edit?usp=drive_link&ouid=114697897153924096322&rtpof=true&sd=true)
 * **Portfolio**: [SamHaufiku.github.io](https://SamHaufiku.github.io)
